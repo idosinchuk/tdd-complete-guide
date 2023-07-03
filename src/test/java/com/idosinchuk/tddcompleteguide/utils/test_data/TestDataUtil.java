@@ -33,10 +33,10 @@ public class TestDataUtil {
 
         return new User(
                 userId,
-                "idosinchuk2",
-                "Igor",
-                "Dosinchuk",
-                "igor.dosinchuk1@tdd.com",
+                "jhondoe",
+                "Jhon",
+                "Doe",
+                "hhondoe@tdd.com",
                 "+1234567890",
                 address,
                 30
@@ -72,10 +72,10 @@ public class TestDataUtil {
 
         return new UserEntity(
                 userId,
-                "idosinchuk2",
-                "Igor",
-                "Dosinchuk",
-                "igor.dosinchuk1@tdd.com",
+                "jdoe",
+                "Jhon",
+                "Doe",
+                "jdoe@tdd.com",
                 "+1234567890",
                 addressEntity,
                 30
